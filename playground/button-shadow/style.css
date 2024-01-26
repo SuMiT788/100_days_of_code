@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  background-color: #e0e0e0;
+}
+
+.box {
+  height: 300px;
+  width: 600px;
+  border-radius: 40px;
+  background-color: #c1c1c1;
+  box-shadow: 20px 20px 60px #0000004d, inset -20px -20px 60px #ffffff1a;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
